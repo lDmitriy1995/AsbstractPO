@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsbstractPO", "AsbstractPO\AsbstractPO.csproj", "{3FFE4EBE-36B2-493D-945D-D7CD05D87EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFE4EBE-36B2-493D-945D-D7CD05D87EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFE4EBE-36B2-493D-945D-D7CD05D87EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFE4EBE-36B2-493D-945D-D7CD05D87EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFE4EBE-36B2-493D-945D-D7CD05D87EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BC1383-0A4B-4010-BE6E-A25F1B89C7F7}
+	EndGlobalSection
+EndGlobal
